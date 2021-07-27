@@ -17,4 +17,15 @@ I have created library management system 📚. This system contains the informat
 
 5. When a book is issued automatically it should reflect in the book table.
 
+## Modules in the Project
+-   Issue Book Section
+-   Return Book Section
+-   Trigger to automatically increment and decrement the no. of books
+-   Trigger to move the data from the transaction to transaction history table upon deletion
+
 ## NOTE
+
+
+## Facing any issues???
+Feel free to [open an issue](https://github.com/iamdhrutipatel/Library-Management-System/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
+
