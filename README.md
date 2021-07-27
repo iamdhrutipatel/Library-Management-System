@@ -23,7 +23,7 @@ I have created library management system 📚. This system contains the informat
 -   Trigger to automatically increment and decrement the no. of books
 -   Trigger to move the data from the transaction to transaction history table upon deletion
 
-## NOTE
+## Note
 
 
 ## Facing any issues???
