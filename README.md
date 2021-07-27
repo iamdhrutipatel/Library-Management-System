@@ -4,9 +4,9 @@ Mini project to handle the operations of Library Management System using SQL que
 ## Explanation of the Project
 I have created library management system 📚. This system contains the information about members, books, transaction about books and transaction_history. I have used the concept like cursor, trigger, exception handling and procedure.
 
-1. The library has 3 kinds of members:
-   i.   Monthly this member can borrow 4 books
-   ii.  Yearly this member can borrow 2 books
+1. The library has 3 kinds of members:<br>
+   i.   Monthly this member can borrow 4 books <br>
+   ii.  Yearly this member can borrow 2 books <br>
    iii. Lifetime this member can be borrow 6 books
 
 2. The same kind of a book cannot be borrowed by a member at one instance.
