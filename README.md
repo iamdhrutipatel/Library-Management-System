@@ -24,7 +24,7 @@ I have created library management system 📚. This system contains the informat
 -   Trigger to move the data from the transaction to transaction history table upon deletion
 
 ## Note
-Sorry, I'm not able to upload source code on GitHub :octocat: because I've performed the project in Oracle Live SQL. But, you'll find all the code in [Document](https://github.com/iamdhrutipatel/Library-Management-System/blob/main/Library%20Management%20System.pdf) pdf.
+Sorry, I'm not able to upload source code on GitHub :octocat: because I've performed the project in Oracle Live SQL. But, you'll find all the code in [Document](https://github.com/iamdhrutipatel/Library-Management-System/blob/main/Library%20Management%20System.pdf).
 Thank You!
 
 
